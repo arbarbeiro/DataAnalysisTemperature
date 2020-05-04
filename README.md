@@ -3,7 +3,7 @@ This repository contains material for the project **Exploring Weather Trends**: 
 
 ### Steps:
 - Extract data from a database using a SQL query: 
-  1. Write a SQL query to extract the city level data from the ´city_lits´ table to an CSV 
+  1. Write a SQL query to extract the city level data from the `city_lits` table to an CSV 
   2. Write a SQL query to extract the global data. Export to CSV
 - Calculate a moving average in a spreadsheet (using Excel, google sheets, or Python etc.) and create a line chart that compares your city’s temperatures with the global temperatures. Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable (the last concept in the previous lesson goes over how to do this in a spreadsheet).
 
