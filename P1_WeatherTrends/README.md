@@ -1,5 +1,5 @@
 # Data Analysis Weather 
-This repository contains material for the project **Exploring Weather Trends**: analyse local and global temperature data and compare the temperature trends of a city to overall global temperature trends.
+Analyse local and global temperature data and compare the temperature trends of a city to overall global temperature trends.
 
 ### Steps:
 - Extract data from a database using a SQL query: 
